@@ -5,5 +5,6 @@
 ### 旧博客
 大学时候写的东西在博客园: [wython旧博客](http://www.cnblogs.com/wuweixin)
 
+- [谈js继承](https://github.com/wython/wython.github.io/issues/5)
 - [es5的小方法Object.defineProperty](https://github.com/wython/wython.github.io/issues/4)
 - [谈谈sequelize的include](https://github.com/wython/wython.github.io/issues/3)
