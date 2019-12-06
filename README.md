@@ -1,2 +1,12 @@
-# 个人博客欢迎讨论
-[谈谈sequelize的include](https://github.com/wython/wython.github.io/issues/3)
+# 个人博客
+
+### 文章列表
+- [一个react项目](https://github.com/wython/wython.github.io/issues/8)
+- [浏览器渲染原理简析](https://github.com/wython/wython.github.io/issues/7)
+- [fastclick源码简析](https://github.com/wython/wython.github.io/issues/6)
+- [谈js继承](https://github.com/wython/wython.github.io/issues/5)
+- [es5的小方法Object.defineProperty](https://github.com/wython/wython.github.io/issues/4)
+- [谈谈sequelize的include](https://github.com/wython/wython.github.io/issues/3)
+
+[github page地址](https://wython.github.io/)
+大学时候写的东西在博客园: [wython旧博客](http://www.cnblogs.com/wuweixin)
