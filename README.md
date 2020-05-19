@@ -1,6 +1,7 @@
 # 个人博客
 
 ### 文章列表
+- [Node模块加载原理](https://github.com/wython/wython.github.io/issues/12)
 - [https过程详解](https://github.com/wython/wython.github.io/issues/10)
 - [vue源码简析](https://github.com/wython/wython.github.io/issues/9)
 - [一个react项目](https://github.com/wython/wython.github.io/issues/8)
